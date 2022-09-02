@@ -1,0 +1,18 @@
+{
+    "most_active": {
+        "attacker_king":null,
+        "defender_king":null,
+        "region":null,
+        "name":null
+    },
+    "attacker_outcome": {
+        "win":null,
+        "loss":null
+    },
+    "battle_type": [],
+    "defender_size": {
+        "average":null,
+        "min":null,
+        "max":null
+    }
+}
